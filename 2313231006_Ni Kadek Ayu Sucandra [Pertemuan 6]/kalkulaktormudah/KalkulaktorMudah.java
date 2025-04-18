@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Made Aditya
+ * @author Ayu Sucandra
  */
 public class KalkulaktorMudah {
     public static void main(String[] args) {
